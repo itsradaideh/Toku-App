@@ -1,3 +1,3 @@
 # toku_app
 
-A New Flutter project.
+A NEW Flutter project.
